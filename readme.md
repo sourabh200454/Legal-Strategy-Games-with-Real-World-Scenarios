@@ -10,6 +10,8 @@ The smart contract manages the registration of players, the creation of legal sc
 
 ## Contract Address
 0x92BBAb7c64a437FfF887f286ce9808Bdbf537FE6
+![image](https://github.com/user-attachments/assets/3d60f7df-9a51-4e97-b633-a0f336eab0b4)
+
 
 ## Project Vision
 The vision of this project is to create an interactive legal strategy game where players can challenge one another in realistic legal cases. The game promotes knowledge about law, litigation strategies, and offers an engaging platform for legal professionals, students, or enthusiasts.
